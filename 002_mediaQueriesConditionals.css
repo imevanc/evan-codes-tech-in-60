@@ -1,0 +1,9 @@
+body{
+    background-color: blue;
+}
+
+@media (200px <= width <= 500px) {
+    body{
+        background-color: red;
+    }
+}
